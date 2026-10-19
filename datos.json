@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1,
+    "fecha": "2026-10-01",
+    "concepto": "le pago a topo",
+    "monto": 2783,
+    "cat": "Vicios Ocultos"
+  }
+]
