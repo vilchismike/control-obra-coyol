@@ -5,5 +5,12 @@
     "concepto": "le pago a topo",
     "monto": 2783,
     "cat": "Vicios Ocultos"
+  },
+  {
+    "id": 2,
+    "fecha": "2026-11-24",
+    "concepto": "se compro material elec",
+    "monto": 18900,
+    "cat": "Materiales"
   }
 ]
