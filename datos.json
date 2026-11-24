@@ -2,15 +2,17 @@
   {
     "id": 1,
     "fecha": "2026-10-01",
-    "concepto": "le pago a topo",
-    "monto": 2783,
-    "cat": "Vicios Ocultos"
+    "concepto": "le pago a topografo",
+    "monto": 3000,
+    "cat": "Vicios Ocultos",
+    "editing": false
   },
   {
     "id": 2,
     "fecha": "2026-11-24",
     "concepto": "se compro material elec",
     "monto": 18900,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   }
 ]
